@@ -14,6 +14,15 @@ high-power industrial loads safely, protecting both the control system and conne
 equipment. The design supports scalability for adding more devices, and manual
 control via push buttons remains available even without internet access.
 
+## Features
+
+- Remote monitoring and control through the Blynk IoT platform
+- Wireless control using Wi-Fi
+- Control of fans, motors, LEDs, and AC loads
+- Manual control using push buttons
+- Real-time device status monitoring
+- Scalable architecture for adding additional devices
+  
 ## Hardware Used
 - NodeMCU (ESP8266) / ESP32 microcontroller
 - L298N motor driver module
@@ -26,6 +35,14 @@ control via push buttons remains available even without internet access.
 - Blynk IoT platform / mobile app
 - Wi-Fi communication
 
+## Technologies Used
+- Embedded C/C++
+- IoT
+- Wi-Fi Communication
+- Blynk IoT
+- Arduino IDE
+- NodeMCU / ESP32
+  
 ## System Architecture
 Three layers:
 1. **User interface layer** — Blynk mobile app for sending commands and monitoring status
