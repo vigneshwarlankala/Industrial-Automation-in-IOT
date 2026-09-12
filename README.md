@@ -40,8 +40,8 @@ Three layers:
 5. Open the Blynk app, add your devices, and control them from your phone or the push button.
 
 ## Team
-- Parvathala Pathanjali
 - Vigneshwar Reddy
+- parvathala Pathanjali
 - Mohammad Shahnawaz
 - Konamgeri Nikitha
 
