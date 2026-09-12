@@ -1,5 +1,4 @@
 # Industrial-Automation-in-IOT
-# Industrial Automation in IoT
 
 An IoT-based industrial automation system built with a NodeMCU/ESP32 microcontroller
 integrated with the Blynk IoT application, enabling remote monitoring and control of
